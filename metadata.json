@@ -1,0 +1,8 @@
+{
+  "name": "Quản Lý Học Sinh Lớp 11",
+  "description": "Hệ thống quản lý học sinh lớp 11A3 (43 học sinh): sổ điểm môn học, chuyên cần vắng có phép/không phép, đánh giá hạnh kiểm và hệ thống thông báo nhắc nhở.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
